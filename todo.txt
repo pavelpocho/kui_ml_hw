@@ -1,0 +1,23 @@
+BAYES:
+- Test out proper 2D convolution on 28x28 - DONE
+- Code cleanup - DONE
+- Output into a .dsv file from test data - DONE
+- Combine 28x28 and 10x10 approach - DONE
+- Test out multiple random combos - DONE
+- Retry with data from just one folder!!!! - DONE
+- Explore 1D shortening again... - DONE
+- 0 < alpha < 1 range... DONE
+- Find right combos for online param tuning - DONE
+
+- Final code cleanup (param names)
+
+KNN:
+- Output into a .dsv file from test data - DONE
+- Code cleanup - DONE
+- Retry with data from just one folder!!!! - DONE
+- Explore 1D shortening again... - DONE
+- Different distance functions... - DONE
+- Less training data in quick training - DONE
+- Find right combos for online param tuning - DONE
+
+- Final code cleanup (param names)

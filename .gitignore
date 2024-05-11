@@ -1,0 +1,14 @@
+.conda
+.vscode
+__pycache__
+test_data_1
+test_data_2
+test_data_3
+test_data_4
+train_700_28
+train_1000_28
+train_1000_10
+train_data_1
+train_data_2
+train_data_3
+train_data_4
